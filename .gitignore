@@ -1,0 +1,15 @@
+# Arquivos de objeto do compilador
+*.o
+*.obj
+
+# Arquivos executáveis gerados pelo compilador
+*.exe
+*.out
+
+# Arquivos de depuração e temporários
+*.log
+*.tmp
+
+# IDE e arquivos de configuração do editor
+.vscode/
+.idea/
