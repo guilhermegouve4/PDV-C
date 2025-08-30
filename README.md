@@ -2,13 +2,13 @@
 
 Este é um projeto de um sistema de caixa automático desenvolvido para a disciplina de Algoritmos e Programação do curso de Análise e Desenvolvimento de Sistemas da Unicesumar. O sistema simula o processo de uma venda de produtos alimentícios, calculando o total da compra e aplicando descontos ou juros com base na forma de pagamento escolhida.
 
-## ?? Equipe de Desenvolvimento
+## Equipe de Desenvolvimento
 * **Guilherme Augusto Gouvea**
 * **Alan Rossini Paulino**
 
 ---
 
-## ?? Funcionalidades
+## Funcionalidades
 O algoritmo oferece as seguintes funcionalidades principais:
 
 1.  **Menu Inicial:** Permite ao usuário iniciar uma nova venda ou sair do sistema.
@@ -23,7 +23,7 @@ O algoritmo oferece as seguintes funcionalidades principais:
 
 ---
 
-## ??? Como Compilar e Executar
+## Como Compilar e Executar
 Para rodar este programa, você precisará de um compilador de C. Você pode usar o GCC (GNU Compiler Collection), que é o padrão para a maioria dos sistemas operacionais.
 
 1.  **Salve o Código:** Salve o código-fonte em um arquivo com a extensão `.c`, por exemplo: `caixa.c`.
@@ -46,7 +46,7 @@ Para rodar este programa, você precisará de um compilador de C. Você pode usar o
 
 ---
 
-## ?? Licença
+## Licença
 
 Este projeto está licenciado sob a **Licença MIT**.
 
